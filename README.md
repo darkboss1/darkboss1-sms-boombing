@@ -21,6 +21,10 @@ Navigate to the folder where your script is saved.
 ## 3. python darkboss1-sms-boombing.py
 
 
+## Enter the Bangladeshi phone number (without country code +88, just 01xxxxxxxxx).
+
+## ✅ The script will then begin sending OTP requests to that number using publicly accessible OTP APIs from multiple Bangladeshi platforms (e.g., Rokomari, RedX, Bikroy, etc.).
+
 
 ## ✅ How to Stop It
 ## You can press Ctrl+C anytime during execution to stop the script manually.
