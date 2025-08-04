@@ -1,26 +1,26 @@
-darkboss1-sms-boombing
+## darkboss1-sms-boombing
 
-Requirements Before Use
-You must have:
+## Requirements Before Use
+## You must have:
 
-Python 3 installed on your system
+## Python 3 installed on your system
 
-An active internet connection
+## An active internet connection
 
-requests module installed
+## requests module installed
 
-pip install requests
+## pip install requests
 
 
-Step-by-Step Usage
-1. Open Terminal or Command Prompt
+## Step-by-Step Usage
+## 1. Open Terminal or Command Prompt
 Navigate to the folder where your script is saved.
 
-2. Run the Script
+## 2. Run the Script
 
-3. python darkboss1-sms-boombing.py
+## 3. python darkboss1-sms-boombing.py
 
 
 
-✅ How to Stop It
-You can press Ctrl+C anytime during execution to stop the script manually.
+## ✅ How to Stop It
+## You can press Ctrl+C anytime during execution to stop the script manually.
