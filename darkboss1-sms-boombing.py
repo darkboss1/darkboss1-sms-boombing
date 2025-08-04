@@ -43,7 +43,7 @@ print("\n\n")
 
 
 
-style(" \033[1;31m Hey " + "\033[1;33m" + name +" \033[1;31m, Use for ethical perpos only ")
+style(" \033[1;31m Hey " + "\033[1;33m" + name +" \033[1;31m, Use for ethical perpos only Coded By darkboss1 ")
 
 
 
